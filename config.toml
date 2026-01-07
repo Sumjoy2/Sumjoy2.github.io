@@ -11,6 +11,10 @@ target = 'static'
 source = 'images'
 target = 'static/images'
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 # Theme configuration
 [params]
   description = "Welcome to my site!! I will use this as a showcase of my projects & possibly misc posts about other stuff I have done involving tech"
