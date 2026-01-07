@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2026-01-06T16:59:20-08:00
-draft: true
+draft: false
 ---
 
 ## Sumjoy2

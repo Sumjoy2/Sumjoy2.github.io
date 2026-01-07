@@ -1,7 +1,7 @@
 ---
 title: "Chirp"
 date: 2026-01-06T17:28:02-08:00
-draft: true
+draft: false
 ---
 
 ![Chirp Logo](/images/projects/chirp/ChirpLogo.png)
