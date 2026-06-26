@@ -1,6 +1,7 @@
 ---
 title: "Chirp"
 date: 2026-01-06T17:28:02-08:00
+tags: ["Unreal Engine", "AIE", "Team Project"]
 draft: false
 ---
 
